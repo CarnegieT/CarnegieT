@@ -10,5 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 # Projects
-- A Cordova based cocktail recipe app:
-- 
+- A movie web app: https://github.com/CarnegieT/MyMovieApp.git
