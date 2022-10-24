@@ -11,3 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 # Projects
 - A movie web app: https://github.com/CarnegieT/MyMovieApp.git
+- A cocktail recipe app: https://github.com/CarnegieT/TheHappyHourApp.git
